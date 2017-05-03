@@ -29,7 +29,9 @@ plugins: [
       Main: 'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Main.jsx',
 
       applicationStyles:'C:/Users/Bogdan/Desktop/ReactTimer/app/styles/app.scss',
-      Navigation:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Navigation.jsx'
+      Navigation:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Navigation.jsx',
+      Timer:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Timer.jsx',
+      Countdown:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Countdown.jsx'
     },
     extensions: ['', '.js', '.jsx']
   },
