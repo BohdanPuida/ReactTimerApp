@@ -33,7 +33,8 @@ plugins: [
       Timer:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Timer.jsx',
       Countdown:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Countdown.jsx',
       Clock:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Clock.jsx',
-      CountdownForm:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/CountdownForm.jsx'
+      CountdownForm:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/CountdownForm.jsx',
+      Controls:'C:/Users/Bogdan/Desktop/ReactTimer/app/components/Controls.jsx'
     },
     extensions: ['', '.js', '.jsx']
   },
