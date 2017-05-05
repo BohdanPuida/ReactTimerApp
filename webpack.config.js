@@ -1,4 +1,5 @@
-var webpack = require('webpack')
+var webpack = require('webpack');
+var path = require('path');
 
 module.exports = {
   entry: [
@@ -48,6 +49,11 @@ plugins: [
         test: /\.jsx?$/,
         exclude: /(node_modules|bower_components)/
       }
+    ]
+  },
+  sassLoader: {
+    includePaths: [
+      path.resolve(__dirname, 'C:/Users/Bogdan/Desktop/ReactTimer/node_modules/foundation-sites/scss')
     ]
   },
   devtool: 'cheap-module-eval-source-map'
